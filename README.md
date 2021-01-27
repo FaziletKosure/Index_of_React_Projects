@@ -39,7 +39,7 @@
                 <tr>
             <td>React Chartjs Covid Tracker App</td>
             <td><a href="https://github.com/FaziletKosure/react_chartjs_covidTracker_app" target="_blank">Repo details</a></td>
-            <td><a href="https://faziletkosure.github.io/react_chartjs_covidTracker_app/" target="_blank">App Demo</a></td>
+            <td><a href="https://faziletkosure.github.io/react_chartjs_covidTracker_app/" target="_blank">📽App Demo</a></td>
             <td><img src="./content_heart-react.gif"alt="react" ></td> 
         </tr>
     </tbody>
