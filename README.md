@@ -1,6 +1,6 @@
 <p align="center"> 
     <img src='./logo_react.png' height=130>
-    <h1 align="center">Index of React.js Projects</h1>
+    <h1 align="center">Index of React Projects</h1>
 </p>
 
 <table>
